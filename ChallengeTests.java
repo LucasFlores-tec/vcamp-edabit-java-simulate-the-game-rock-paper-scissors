@@ -1,3 +1,5 @@
+// Esse é o script de teste que o Edabit usou para verificar o código que criei.
+
 package test_vcamp;
 
 import static org.junit.Assert.assertEquals;
