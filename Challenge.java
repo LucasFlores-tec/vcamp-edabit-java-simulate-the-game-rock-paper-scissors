@@ -2,11 +2,11 @@ package test_vcamp;
 
 public class Challenge {
 
-// Stati torna a variável visível para as demais instâncias, nesse caso específicamente a "ChallengeTeste".
+// Static torna a variável visível para as demais instâncias, nesse caso específicamente a "ChallengeTeste".
 	static String result;
 	
 // O método "rps" recebe dois parâmetros de tipo String, e verifica-os atrávez de um laço de repetição "while",
-// retornando o resultado.
+// retornando o resultado conforme os parâmetros passados.
 	public static String rps(String s1, String s2){
 		while(true) {
 			if (s1.equals(s2)){
