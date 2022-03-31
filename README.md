@@ -12,13 +12,13 @@ Desafio V_Camp Edabit
   </a>
 </div>
 
-### Imagem do teste realizado:
+### Captura dos testes:
 
 <div>
   <img src=https://github.com/LucasFlores-tec/vcamp-edabit-java-simulate-the-game-rock-paper-scissors/blob/main/test_correction_edabit.png>
 </div>
 
-### Link do desafio no Edabit:
+### Endereço do desafio:
 
 https://edabit.com/challenge/3S8XppR6Yf5mXPxij
 
